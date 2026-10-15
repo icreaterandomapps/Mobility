@@ -2,13 +2,14 @@
 
 A portable Windows toolbox: folders of shortcuts plus a launcher app.
 
-**Start it:** double-click `Launch Mobility.bat` (needs Python 3 with tkinter, the standard python.org install).
-**Make an .exe:** double-click `build.bat` (installs PyInstaller, writes `Mobility.exe` here). Keep the exe next to the `Res`, `Custom Tools` and `Administrative Tools` folders. The exe has your icon built in.
-Right-click the blue header for *Create desktop shortcut*, *Add custom tool*, *Repair folder icons* and *About*.
-
 ## Download and setup
 
 Just download [Mobility.exe](https://github.com/icreaterandomapps/Mobility/releases/download/v1.0/Mobility.exe) and run it. No setup, No installation.
+
+## Build from code
+
+**Make an .exe or build from code:** double-click `build.bat` (installs PyInstaller, writes `Mobility.exe` here). Keep the exe next to the `Res`, `Custom Tools` and `Administrative Tools` folders. The exe has your icon built in.
+Right-click the blue header for *Create desktop shortcut*, *Add custom tool*, *Repair folder icons* and *About*.
 
 ## Launcher
 - ~120 tools in 7 categories: System, Administrative, Storage, Network, Power & Mobility, Repair, Utilities
